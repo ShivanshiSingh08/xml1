@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+  <id>1</id>
+  <name>Smartphone</name>
+  <price>299.99</price>
+  <quantity>50</quantity>
+  <category>Electronics</category>
+</product>
